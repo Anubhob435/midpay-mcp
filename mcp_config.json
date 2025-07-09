@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "midpay": {
+      "command": "python",
+      "args": ["mcp_server.py"],
+      "cwd": "d:\\Project Archive\\midpay-mcp",
+      "env": {
+        "PYTHONPATH": "d:\\Project Archive\\midpay-mcp"
+      }
+    }
+  }
+}
