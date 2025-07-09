@@ -92,7 +92,7 @@ Create a `.env` file in the project root with optional MongoDB configuration:
 ```env
 MONGODB_URI=mongodb://localhost:27017
 # or for MongoDB Atlas:
-# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/
+# MONGODB_URI=mongodb+srv://username:password
 ```
 
 ### MCP Client Configuration
